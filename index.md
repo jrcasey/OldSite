@@ -2,6 +2,8 @@
 
 Hello World!
 
+Just messing around... check back later when I've figured this all out!
+
 You can use the [editor on GitHub](https://github.com/jrcasey/jrcasey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
