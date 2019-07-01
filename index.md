@@ -2,6 +2,7 @@
 ## John R. Casey
 
 ![useful image]({{ jrcasey.github.io }}/images/headshot.png)
+ - - - 
 Hello World! Just messing around... check back later when I've figured this all out!
 
 <details>
@@ -23,6 +24,7 @@ Hello World! Just messing around... check back later when I've figured this all 
 <summary>Contact</summary>
 
 + jrcasey at hawaii.edu
++ jrcasey at mit.edu
 + [Twitter](https://twitter.com/tako_poke)
 
 </details>
