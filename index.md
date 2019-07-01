@@ -9,17 +9,22 @@ Postdoctoral Fellow
 Earth, Atmospheric, and Planetary Sciences  
 Massachusetts Institute of Technology  
 
+Research Affiliate
+School of Ocean and Earth Science and Technology
+University of Hawai'i at 
 ## Profile pages
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
 
 <details>
 <summary>About me</summary>
+<p>
 
 + Research interests  
     + Microbial oceanography  
     + Biological thermodynamics  
 
+</p>
 </details>
 
 <details>
