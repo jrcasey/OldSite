@@ -44,3 +44,7 @@ jrcasey at mit.edu
 ### Other Profile Pages  
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
+
+ - - -
+ 
+ <a class="twitter-timeline" href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw">Tweets by tako_poke</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
