@@ -16,7 +16,6 @@ Hello World! Just messing around... check back later when I've figured this all 
 <summary>Vitae</summary>
 
 + CV
-
 </details>
 
 
