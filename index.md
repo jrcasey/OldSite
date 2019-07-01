@@ -4,6 +4,9 @@
 ![useful image]({{ jrcasey.github.io }}/images/headshot.png)
  - - - 
 Hello World! Just messing around... check back later when I've figured this all out!
+[![alt text][1.1]][1]
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: http://www.twitter.com/tako_poke
 
 Postdoctoral Fellow  
 Earth, Atmospheric, and Planetary Sciences  
@@ -12,10 +15,8 @@ Massachusetts Institute of Technology
 Research Affiliate
 School of Ocean and Earth Science and Technology
 University of Hawai'i at 
-## Profile pages
-[Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
-[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
 
+ - - -
 <details><summary>About me</summary>
 <p>
 
@@ -31,15 +32,18 @@ University of Hawai'i at
 
 [CV](./docs/CV_20190604.pdf)
 </details>
-
+<p>
 <details><summary>Contact</summary>
 
 jrcasey at hawaii.edu  
 jrcasey at mit.edu  
 [Twitter](https://twitter.com/tako_poke)
 
+</p>
 </details>
 
  - - -
  
- New section
+ ### Other Profile Pages
+[Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
+[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
