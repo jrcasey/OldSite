@@ -2,7 +2,7 @@
 ## John R. Casey
 ![useful image]({{ jrcasey.github.io }}/images/headshot.png)
 Hello World! Just messing around... check back later when I've figured this all out!
-temp check 
+
 <details>
 <summary>About me</summary>
 
@@ -18,4 +18,13 @@ temp check
 
 + CV
 </details>
+
+<details>
+<summary>Contact</summary>
+
++ jrcasey at hawaii.edu
++ [Twitter](https://twitter.com/tako_poke)
+
+</details>
+
 
