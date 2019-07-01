@@ -10,7 +10,6 @@ Hello World! Just messing around... check back later when I've figured this all 
 + Research interests
     + Microbial oceanography
     + Biological thermodynamics
-+ Non-research interests
 
 </details>
 
