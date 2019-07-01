@@ -1,20 +1,24 @@
 ## John R. Casey
 
-Hello World!
-
-Just messing around... check back later when I've figured this all out!
+Hello World! Just messing around... check back later when I've figured this all out!
 
 <details>
-<summary>Heading</summary>
+<summary>About me</summary>
 
-+ markdown list 1
-    + nested list 1
-    + nested list 2
-+ markdown list 2
++ Research interests
+    + Microbial oceanography
+    + Biological thermodynamics
++ Non-research interests
 
 </details>
 
-More messing around 
+<details>
+<summary>Vitae</summary>
+
++ CV
+
+</details>
+
 
 You can use the [editor on GitHub](https://github.com/jrcasey/jrcasey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
