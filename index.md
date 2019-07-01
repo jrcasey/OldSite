@@ -7,10 +7,10 @@ Just messing around... check back later when I've figured this all out!
 <details open>
     <summary>Navigate</summary>
         <br>
-        + List item 1
-            + Sublist item 1
-            + Sublist item 2
-        + List item 2
+        + markdown List item 1
+            + markdown Sublist item 1
+            + markdown Sublist item 2
+        + markdown List item 2
     </details>
 
 
