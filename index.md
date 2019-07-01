@@ -19,6 +19,8 @@ School of Ocean and Earth Science and Technology
 University of Hawai'i at Manoa  
 
  - - -
+ ### About
+ 
 <details><summary>Research Interests</summary>
 
 Microbial oceanography  
