@@ -13,19 +13,18 @@ Postdoctoral Fellow
 Earth, Atmospheric, and Planetary Sciences  
 Massachusetts Institute of Technology  
 
-Research Affiliate
-School of Ocean and Earth Science and Technology
-University of Hawai'i at Manoa
+Research Affiliate  
+School of Ocean and Earth Science and Technology  
+University of Hawai'i at Manoa  
 
  - - -
-<details><summary>Research Interests</summary>
-<p>
+<details><summary>About me</summary>
 
-Microbial oceanography  
-<br>
-Biothermodynamics  
++ Research Interests  
+    + Microbial oceanography  
+    + Biothermodynamics  
++ Other Interests
 
-</p>
 </details>
 
 [CV](./docs/CV_20190604.pdf)
