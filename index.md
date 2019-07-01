@@ -4,6 +4,7 @@
 ![useful image]({{ jrcasey.github.io }}/images/headshot.png)
  - - - 
 > Hello World! Just messing around... check back later when I've figured this all out!  
+
 [![alt text][1.1]][1]
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: http://www.twitter.com/tako_poke
@@ -44,6 +45,8 @@ jrcasey at mit.edu
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
 
+ - - -
+<a href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tako_poke</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  - - -
  
  <a class="twitter-timeline" href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw">Tweets by tako_poke</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
