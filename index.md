@@ -16,7 +16,7 @@ Hello World! Just messing around... check back later when I've figured this all 
 <details>
 <summary>Vitae</summary>
 
-+ CV
++ [CV](./docs/CV_20190604.pdf)
 </details>
 
 <details>
