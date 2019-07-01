@@ -14,16 +14,14 @@ Massachusetts Institute of Technology
 
 Research Affiliate
 School of Ocean and Earth Science and Technology
-University of Hawai'i at 
+University of Hawai'i at Manoa
 
  - - -
-<details><summary>About me</summary>
+<details><summary>Research Interests</summary>
 <p>
 
-+ Research Interests
-    + Microbial oceanography
-    + Biothermodynamics
-+ Non-research Interests
+Microbial oceanography  
+Biothermodynamics  
 
 </p>
 </details>
