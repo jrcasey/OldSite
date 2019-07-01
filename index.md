@@ -4,15 +4,15 @@ Hello World!
 
 Just messing around... check back later when I've figured this all out!
 
-<details open>
-    <summary>Navigate</summary>
-        <br>
-        + markdown List item 1
-            + markdown Sublist item 1
-            + markdown Sublist item 2
-        + markdown List item 2
-    </details>
+<details>
+<summary>Heading</summary>
 
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
 
 More messing around 
 
