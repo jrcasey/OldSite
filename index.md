@@ -5,10 +5,13 @@ Hello World!
 Just messing around... check back later when I've figured this all out!
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
-    <br>
-    Well, you asked for it!
-</details>
+    <summary>Navigate</summary>
+        <br>
+        + List item 1
+            + Sublist item 1
+            + Sublist item 2
+        + List item 2
+    </details>
 
 
 More messing around 
