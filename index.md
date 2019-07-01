@@ -16,8 +16,7 @@ University of Hawai'i at
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
 
-<details>
-<summary>About me</summary>
+<details><summary>About me</summary>
 <p>
 
 + Research interests  
@@ -27,14 +26,12 @@ University of Hawai'i at
 </p>
 </details>
 
-<details>
-<summary>Vitae</summary>
+<details><summary>Vitae</summary>
 
 + [CV](./docs/CV_20190604.pdf)
 </details>
 
-<details>
-<summary>Contact</summary>
+<details><summary>Contact</summary>
 
 + jrcasey at hawaii.edu
 + jrcasey at mit.edu
