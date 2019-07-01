@@ -5,12 +5,20 @@
  - - - 
 Hello World! Just messing around... check back later when I've figured this all out!
 
+Postdoctoral Fellow  
+Earth, Atmospheric, and Planetary Sciences  
+Massachusetts Institute of Technology  
+
+## Profile pages
+[Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
+[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
+
 <details>
 <summary>About me</summary>
 
-+ Research interests
-    + Microbial oceanography
-    + Biological thermodynamics
++ Research interests  
+    + Microbial oceanography  
+    + Biological thermodynamics  
 
 </details>
 
