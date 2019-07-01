@@ -9,6 +9,7 @@
 
 > Hello World! Just messing around... check back later when I've figured this all out!  
 
+### Affiliations
 Postdoctoral Fellow  
 Earth, Atmospheric, and Planetary Sciences  
 Massachusetts Institute of Technology  
@@ -35,6 +36,7 @@ jrcasey at hawaii.edu
 <br>
 jrcasey at mit.edu  
 
+</details>
  - - -
  
 ### Other Profile Pages  
