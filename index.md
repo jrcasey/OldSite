@@ -19,12 +19,11 @@ School of Ocean and Earth Science and Technology
 University of Hawai'i at Manoa  
 
  - - -
-<details><summary>About me</summary>
+<details><summary>Research Interests</summary>
 
-+ Research Interests  
-    + Microbial oceanography  
-    + Biothermodynamics  
-+ Other Interests
+Microbial oceanography  
+<br>
+Biothermodynamics  
 
 </details>
 
