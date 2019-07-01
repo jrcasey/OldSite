@@ -19,11 +19,10 @@ University of Hawai'i at
 <details><summary>About me</summary>
 <p>
 
-Research interests
-<br>
-Microbial oceanography
-<br>
-Biological thermodynamics  
++ Research Interests
+    + Microbial oceanography
+    + Biothermodynamics
++ Non-research Interests
 
 </p>
 </details>
