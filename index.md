@@ -44,6 +44,6 @@ jrcasey at mit.edu
 
  - - -
  
- ### Other Profile Pages
+### Other Profile Pages  
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
