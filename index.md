@@ -19,23 +19,23 @@ University of Hawai'i at
 <details><summary>About me</summary>
 <p>
 
-+ Research interests  
-    + Microbial oceanography  
-    + Biological thermodynamics  
+Research interests  
+    Microbial oceanography  
+    Biological thermodynamics  
 
 </p>
 </details>
 
 <details><summary>Vitae</summary>
 
-+ [CV](./docs/CV_20190604.pdf)
+[CV](./docs/CV_20190604.pdf)
 </details>
 
 <details><summary>Contact</summary>
 
-+ jrcasey at hawaii.edu
-+ jrcasey at mit.edu
-+ [Twitter](https://twitter.com/tako_poke)
+jrcasey at hawaii.edu  
+jrcasey at mit.edu  
+[Twitter](https://twitter.com/tako_poke)
 
 </details>
 
