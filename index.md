@@ -3,7 +3,7 @@
 
 ![useful image]({{ jrcasey.github.io }}/images/headshot.png)
  - - - 
-Hello World! Just messing around... check back later when I've figured this all out!
+> Hello World! Just messing around... check back later when I've figured this all out!  
 [![alt text][1.1]][1]
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: http://www.twitter.com/tako_poke
@@ -28,11 +28,8 @@ University of Hawai'i at
 </p>
 </details>
 
-<details><summary>Vitae</summary>
-
 [CV](./docs/CV_20190604.pdf)
-</details>
-<p>
+
 <details><summary>Contact</summary>
 
 jrcasey at hawaii.edu  
