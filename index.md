@@ -19,15 +19,10 @@ processes to those of the larger marine ecosystem,
 but a fundamental understanding of the time and space 
 scales over which microbes processes information is 
 lacking. I am motivated to understand the 
-objectives of cellular scale processes, how those 
-objectives are influenced by communication between 
+optimization of cellular scale processes, how those 
+landscapes are influenced by communication between 
 higher tiers of biological organization, and how 
-they are imprinted in the genetic code. With Mick 
-Follows and collaborators within the CBIOMES 
-initiative (cbiomes.org), I am designing detailed 
-models of microbial metabolism and physiology and 
-using these models to simulate microbial community 
-dynamics in the marine environment.
+they are imprinted in the genetic code. 
 
 ### Affiliations
 Postdoctoral Fellow  
@@ -41,13 +36,7 @@ University of Hawai'i at Manoa
  - - -
  ### About
  
-<details><summary>Research Interests</summary>
-
-Microbial oceanography  
-<br>
-Biothermodynamics  
-
-</details>
+[Current Research](./Current_Research.md)
 
 [CV](./docs/CV_20190604.pdf)
 
