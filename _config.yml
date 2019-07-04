@@ -1,10 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+title: John R. Casey
+description: Welcome to my homepage!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
