@@ -1,3 +1,4 @@
+{% seo %}
 
 ![useful image]({{ jrcasey.github.io }}/images/Healey.jpg)
 USCGC Healey, Bering Sea (2008)
@@ -9,7 +10,7 @@ USCGC Healey, Bering Sea (2008)
 > Aloha and thank you for visiting! Here you'll find 
 a few blurbs about me and my research, publications, talks,
 as well as some repo's that you're more than welcome to fork. 
-First, a bit about me and what I'm interested in:
+First, a bit about me and my current interests:
 
 >I am a microbial oceanographer fascinated by the 
 many roles microbes play in regulating elemental 
