@@ -1,0 +1,1 @@
+4. [Lomas, M.W., Moran, S.B., Casey, J.R., Bell, D.W., Tiahlo, M., Whitefield, J., Kelly, R.P., Mathis, J.T., Cokelet, E.D., 2012. Spatial and seasonal variability of primary production on the Eastern Bering Sea shelf. Deep Sea Research Part II: Topical Studies in Oceanography 1–15.](./docs/Lomas_2012_DSR.pdf)
