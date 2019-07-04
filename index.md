@@ -1,7 +1,7 @@
 
 ## John R. Casey
 
-![useful image]({{ jrcasey.github.io }}/images/headshot.png)
+![useful image]({{ jrcasey.github.io }}/images/Healey.jpg)
  - - -
 <a href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tako_poke</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
