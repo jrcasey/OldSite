@@ -30,15 +30,6 @@ are influenced by communication between
 tiers of biological organization, and how 
 all this complexity is imprinted in the genetic code. 
 
-### Affiliations
-Postdoctoral Fellow  
-Earth, Atmospheric, and Planetary Sciences  
-Massachusetts Institute of Technology  
-
-Research Affiliate  
-School of Ocean and Earth Science and Technology  
-University of Hawai'i at Manoa  
-
  - - -
 
 ### About
@@ -54,6 +45,19 @@ jrcasey at hawaii.edu
 jrcasey at mit.edu  
 
 </details>
+
+ - - -
+
+### Affiliations
+Postdoctoral Fellow  
+Earth, Atmospheric, and Planetary Sciences  
+Massachusetts Institute of Technology  
+
+Research Affiliate  
+School of Ocean and Earth Science and Technology  
+University of Hawai'i at Manoa  
+
+
  - - -
  
 ### Other Profile Pages  
