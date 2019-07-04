@@ -7,22 +7,28 @@
 
  - - -
 
-> I am a microbial oceanographer interested 
-in the many roles microbes play in regulating elemental 
+> Aloha and thank you for visiting! Here you'll find 
+a few blurbs about me and my research, as well as some 
+repo's that you're more than welcome to fork. First, a
+bit about me and what I'm interested in:
+
+>I am a microbial oceanographer fascinated by the 
+many roles microbes play in regulating elemental 
 cycles and the transduction of energy in the marine 
 ecosystem. Combining field observations, laboratory 
 experiments, theoretical and computational models, I 
-am working to build toward a mechanistic understanding 
-of microbial life in the oceans. New theory is needed 
-to bridge the gap from high-frequency cellular-scale 
+have the lofty goal of working to build toward a 
+mechanistic model of microbial life in the 
+oceans. New theory is needed to bridge the gap from 
+high-frequency cellular-scale 
 processes to those of the larger marine ecosystem, 
 but a fundamental understanding of the time and space 
-scales over which microbes processes information is 
+scales over which microbes process information is 
 lacking. I am motivated to understand the 
-optimization of cellular scale processes, how those 
-landscapes are influenced by communication between 
-higher tiers of biological organization, and how 
-they are imprinted in the genetic code. 
+optimization of cellular scale processes, how objectives
+are influenced by communication between 
+tiers of biological organization, and how 
+all this complexity is imprinted in the genetic code. 
 
 ### Affiliations
 Postdoctoral Fellow  
