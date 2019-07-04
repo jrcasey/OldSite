@@ -48,6 +48,8 @@ jrcasey at mit.edu
 
 </details>
 
+[Protected area](./index.html)
+
  - - -
 
 ### Affiliations
