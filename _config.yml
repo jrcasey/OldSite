@@ -3,3 +3,5 @@ description: Welcome to my homepage!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
