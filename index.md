@@ -48,7 +48,7 @@ jrcasey at mit.edu
 
 </details>
 
-[Protected area](./index.html)
+[Protected area](./indexp.html)
 
  - - -
 
