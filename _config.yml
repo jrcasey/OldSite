@@ -5,3 +5,14 @@ google_analytics:
 theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
+url: https://jrcasey.github.io
+author: John Casey
+twitter:
+  username: tako_poke
+  card: summary
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/tako_poke
+    - https://www.facebook.com/john.casey.140
+    - https://github.com/jrcasey
