@@ -38,6 +38,8 @@ all this complexity is imprinted in the genetic code.
 
 [CV](./docs/CV_20190604.pdf)
 
+[Publications](./Publications.md)
+
 <details><summary>Contact</summary>
 
 jrcasey at hawaii.edu  
