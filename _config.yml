@@ -3,3 +3,8 @@ description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
