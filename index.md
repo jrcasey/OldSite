@@ -40,7 +40,8 @@ School of Ocean and Earth Science and Technology
 University of Hawai'i at Manoa  
 
  - - -
- ### About
+
+### About
  
 [Current Research](./Current_Research.md)
 
