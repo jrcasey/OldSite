@@ -1,7 +1,7 @@
 {% seo %}
 
 ![useful image]({{ jrcasey.github.io }}/images/Healey.jpg)
-USCGC Healey, Bering Sea (2008) - Credit: [Gaelin Rosenwaks](http://globaloceanexploration.com)
+USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://globaloceanexploration.com)
  - - -
 <a href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tako_poke</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
