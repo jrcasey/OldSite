@@ -12,23 +12,30 @@ a few blurbs about me and my research, publications, talks,
 as well as some repo's that you're more than welcome to fork. 
 First, a bit about me and my current interests:
 
->I am a microbial oceanographer fascinated by the 
-many roles microbes play in regulating elemental 
+> I am fascinated by microbial life and its regulation of elemental 
 cycles and the transduction of energy in the marine 
-ecosystem. Combining field observations, laboratory 
+ecosystem. To make sense of the coordination of 
+thousands of microbial populations interacting 
+through a web of thousands of chemical conduits, all 
+dynamically adapting to an ever-changing environment
+is one heck of a task, but... a poil! 
+
+> Combining field observations, laboratory 
 experiments, theoretical and computational models, I 
-have the lofty goal of working to build toward a 
+have the lofty goal (or fool's errand) of working to build toward a 
 mechanistic model of microbial life in the 
 oceans. New theory is needed to bridge the gap from 
 high-frequency cellular-scale 
 processes to those of the larger marine ecosystem, 
-but a fundamental understanding of the time and space 
-scales over which microbes process information is 
-lacking. I am motivated to understand the 
+and a fundamental understanding of the time and space 
+scales over which microbes explore their fitness 
+landscape and process information is 
+lacking. I am motivated to explore the 
 optimization of cellular scale processes, how objectives
 are influenced by communication between 
 tiers of biological organization, and how 
-all this complexity is imprinted in the genetic code. 
+all this complexity is imprinted in the
+genetic code.  
 
  - - -
 
