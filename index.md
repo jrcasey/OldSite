@@ -12,13 +12,13 @@ a few blurbs about me and my research, publications, talks,
 as well as some repo's that you're more than welcome to fork. 
 First, a bit about me and my current interests:
 
-> I am fascinated by microbial life and its regulation of elemental 
+> I am fascinated by the microbial world and its regulation of elemental 
 cycles and the transduction of energy in the marine 
 ecosystem. To make sense of the coordination of 
 thousands of microbial populations interacting 
 through a web of thousands of chemical conduits, all 
 dynamically adapting to an ever-changing environment
-is one heck of a task, but... a poil! 
+is one hell of a task, but... a poil! 
 
 > Combining field observations, laboratory 
 experiments, theoretical and computational models, I 
