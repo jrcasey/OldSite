@@ -70,8 +70,8 @@ University of Hawai'i at Manoa
  - - -
  
 ### Other Profile Pages  
-[Simons Foundation](https://www.simonsfoundation.org/team/john-casey/)  
-[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey)  
+[Simons Foundation](https://www.simonsfoundation.org/team/john-casey/){:target="_blank"}  
+[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}  
 
  - - -
  
