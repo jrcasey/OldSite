@@ -1,0 +1,18 @@
+## Blog
+#### Raising Blackman, Razing Monod (plane notes)
+It's not often that we have a bit of ammunition to challenge one of the most dogmatic pillars in our field, so I scream into the void in, where else, my first blog. If you're reading this, you're likely familiar with [Monod kinetics] but you're likely *not* familiar with [Blackman kinetics]. Also, if you're reading this, thanks! 
+
+Let's start by stating the two models:
+Monod kinetics describes the hyperbolic dependence of microbial growth rate ($\mu$) on the concentration of a limiting substrate ($S$) according to $\mu = \frac{\mu_{max}S}{k_{M} + S}$, where $\mu_{max}$ is the maximum growth rate and $k_{M}$ is the half-saturation concentration, both of which we'll talk about later. 
+
+Blackman kinetics describes a piecewise-linear dependence of microbial growth rate on the concentration of a limiting substrate according to $Insert equation$. 
+
+Before we discuss the foundations and merits of these two wildly different views, I will mention the obvious: these are by no means the only descriptions of substrate-limited growth. In addition to Monod and Blackman, there are thermodynamic models (e.g., Westerhoff), quota models (e.g., Droop), and probably hundreds of elaborations and brews of each. That's well beyond the scope of this blog, but here's a review if these names are new to you.   
+
+You may have noticed that the Monod kinetics model is structurally identical to the Michaelis-Menten kinetics model of enzyme catalyzed reactions, so let's evaluate whether the systems are fundamentally similar enough to be described in the same manner. Consider first that even the Michaelis-Menten model was analytically derived from a fairly radical simplification of otherwise complex reactions. The system describes the rates of formation of one or more chemical substrates to one or more products, catalyzed by a well-mixed, monodisperse enzyme catalyst suspension, held at steady state. In its most basic form, the reaction consists of two reversible steps - a step which binds a free substrate molecule to a free enzyme catalyst, forming a complex, and a step which then dissociates the product from the complex forming a free product molecule and a free enzyme catalyst. The rate constants derive from collision theory, where a substrate-enzyme collision with insuficient energy to overcome an energy barrier results in no reaction, or a sufficiently high energy collision between product and enzyme again forms the enzyme substrate complex. Clearly there is a concentration dependence on these forward and back reactions. More about this and fun names like the Ping-Pong Bi-Bi reaction here [link]. Anyway, one quickly realizes how oblique even this 2-step description is, considering the multitude of possible sequences of conformational changes associated with multiple subunits, multiple substrates with multiple intermediates, etc., ad nauseum. Sigh... but isn't this all very biological!?          
+
+Monod recognized the resemblance of Michaelis and Menten's *in vitro* reaction kinetics to his own *in vivo* measurements of *E. coli* growth on glucose as a limiting substrate, stating in his seminal 1949 paper: *"Several mathematically different formulations could be made to fit the data. But it is both convenient and logical to adopt a hyperbolic equation."* 
+
+While he probably could not have imagined the lasting impact of such a decision on the scientific community and on the industrial-scale microbial cell factories that would emerge decades later, those who critically reviewed and adpoted his model should have. That's not to say his choice was reckless, indeed     
+
+
