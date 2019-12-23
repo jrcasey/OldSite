@@ -1,6 +1,6 @@
 ## Blog
 #### Raising Blackman, Razing Monod (plane notes)
-It's not often that we have a bit of ammunition to challenge one of the most dogmatic pillars in our field, so I scream into the void in, where else, my first blog. If you're reading this, you're likely familiar with [Monod kinetics] but you're likely *not* familiar with [Blackman kinetics]. Also, if you're reading this, thanks! 
+All ecologists, biologists, and to a somewhat lesser extent, biochemists, are aware that our fields' foundations lie on shaky ground, but it's not often that we have a bit of ammunition to challenge one of the most dogmatic pillars supporting us. So I scream into the void in, where else, my first blog. If you're reading this, you're likely familiar with [Monod kinetics], but you're likely *not* familiar with [Blackman kinetics], which I think is a shame. This blog intends to remedy that, and hopefully to spark a bit of thought into how a linear model may impact the way you think about your focus area. 
 
 Let's start by stating the two models:
 Monod kinetics describes the hyperbolic dependence of microbial growth rate ($\mu$) on the concentration of a limiting substrate ($S$) according to $\mu = \frac{\mu_{max}S}{k_{M} + S}$, where $\mu_{max}$ is the maximum growth rate and $k_{M}$ is the half-saturation concentration, both of which we'll talk about later. 
