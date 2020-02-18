@@ -13,16 +13,16 @@ as well as some repo's that you're more than welcome to fork.
 First, a bit about me and my current interests:
 
 > I am fascinated by the microbial world and its regulation of elemental 
-cycles and the transduction of energy in the marine 
+cycles and energy transduction in the marine 
 ecosystem. To make sense of the coordination of 
 thousands of microbial populations interacting 
 through a web of thousands of chemical conduits, all 
 dynamically adapting to an ever-changing environment
-is one hell of a task, but... a poil! 
+is quite a challenge. 
 
 > Combining field observations, laboratory 
 experiments, theoretical and computational models, I 
-have the lofty goal (or fool's errand) of working to build toward a 
+have the lofty goal of working to build toward a 
 mechanistic model of microbial life in the 
 oceans. New theory is needed to bridge the gap from 
 high-frequency cellular-scale 
@@ -32,7 +32,7 @@ scales over which microbes explore their fitness
 landscape and process information is 
 lacking. I am motivated to explore the 
 optimization of cellular scale processes, how objectives
-are influenced by communication between 
+are influenced by the flow of information between 
 tiers of biological organization, and how 
 all this complexity is imprinted in the
 genetic code.  
@@ -69,9 +69,13 @@ University of Hawai'i at Manoa
 
  - - -
  
-### Other Profile Pages  
+### Links  
+#### Profile Pages
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/){:target="_blank"}  
-[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}  
+[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}
+
+[Mendeley](https://www.mendeley.com/profiles/john-casey4/?viewAsOther=true){:target="_blank"} 
+ 
 
  - - -
  
