@@ -5,7 +5,12 @@
 Project](https://cbiomes.org), I am designing detailed 
 models of microbial metabolism and physiology and 
 using these models to simulate microbial community 
-dynamics in the marine environment.
+dynamics in the marine environment. 
+
+> Two MATLAB toolboxes are under development for this project: 
+The **M**icrobiome **S**imulation **E**nvironment toolbox [MSE](https://github.com/jrcasey/mse) 
+and the **P**an**GE**nome-scale **M**etabolic model toolbox PanGEM (sorry, currently private). 
+Lots more on them in time!    
 
 ##### Mesoscale dynamics of *Prochlorococcus*
 
@@ -21,8 +26,8 @@ properties, ITS-based relative abundances, nutrient concentrations,
 spectral irradiance, and temperature. These data are 
 fed at each grid point to genome-scale metabolic models (GSMMs) for 48
 sequenced isolate strains. Each GSMM goes through a series of bilevel 
-optimizations which allow the cell to physiologically acclimate to its
-environment by altering its macromolecular composition, its pigment 
+optimizations which **allow the cell to physiologically acclimate to its 
+environment** by altering its macromolecular composition, its pigment 
 composition, and the abundance and types of transporters on the cell 
 surface. Using the acclimated GSMM and the associated constraints,
 flux balance analysis is then run to predict growth rates and metabolic 
