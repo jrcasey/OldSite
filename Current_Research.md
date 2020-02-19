@@ -14,7 +14,7 @@ including depth profiles of flow cytometry cell counts and scattering properties
 growth temperatures derived from a machine learning algorithm. Here is a teaser: 
 
 ![useful image]({{ jrcasey.github.io }}/images/MSE_Pro_MESO-SCOPE.jpg)
-*Ecotype averaged predicted growth rates (h<sup>-1</sup>) at local noon across the MESO-SCOPE transect. Station 6 is the center of the anti-cyclone; Station 12 is the center of the cyclone. 5 Ecotypes are shown: **H**igh-**L**ight adapted ecotypes **I** and **II**, and **L**ow-**L**ight adapted ecotypes **I** **II/III** and **IV**.*   
+*Ecotype averaged predicted growth rates (h<sup>-1</sup>) at local noon across the MESO-SCOPE transect. Station 6 is the center of the anti-cyclone; Station 12 is the center of the cyclone. 5 Ecotypes are shown: **H**igh-**L**ight adapted ecotypes **I** and **II**, and **L**ow-**L**ight adapted ecotypes **I** **II/III** and **IV**. Don't worry about that HLI at the bottom lol.*   
 
 
 > There seems to be either a boundless flow of genes or a jaw-dropping amount of persistent micro-diversity within the  *Prochlorococcus* community. We could never hope to capture all the instances in GSMMs, so instead we are evolving *in silico*
