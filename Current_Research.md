@@ -22,4 +22,4 @@ strains synthesized from the pangenome. In addition to the 48 isolates, the pang
 
 
 ## Biological thermodynamics
-> Something fun in the works here...
+> Something "heating up" here... yuk yuk yuk.
