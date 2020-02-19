@@ -3,12 +3,11 @@
 
 > With Mick Follows and collaborators within the [CBIOMES Project](https://cbiomes.org), I am designing detailed models of microbial metabolism and physiology and using these models to simulate microbial community dynamics in the marine environment. 
 
-> Two MATLAB toolboxes are under development for this project: The **M**icrobiome **S**imulation **E**nvironment toolbox [MSE](https://github.com/jrcasey/mse) and the **P**an**GE**nome-scale **M**etabolic model toolbox PanGEM (sorry, currently private).
-Lots more on them in time!    
+> Two MATLAB toolboxes are under development for this project: The **M**icrobiome **S**imulation **E**nvironment toolbox ([MSE](https://github.com/jrcasey/mse)) and the **P**an**GE**nome-scale **M**etabolic model toolbox PanGEM (sorry, currently private). Lots more on them in time!    
 
 ##### Mesoscale dynamics of *Prochlorococcus*
 
-> Update: Our first full-scale simulation of *Prochlorococcus* growth across an eddy dipole transect is complete! We are thrilled with the results and are currently sifting through all the data to develop a compelling story. 
+> **Update:** Our first full-scale simulation of *Prochlorococcus* growth across an eddy dipole transect is complete! We are thrilled with the results and are currently sifting through all the data to develop a compelling story. 
 
 > The model was run using *in situ* data collected on the [2017 MESO-SCOPE Cruise](http://scope.soest.hawaii.edu/data/mesoscope/),
 including depth profiles of flow cytometry cell counts and scattering properties, ITS-based relative abundances, nutrient concentrations, spectral irradiance, and temperature. These data are fed at each grid point to genome-scale metabolic models (GSMMs) for 48 sequenced isolate strains. Each GSMM goes through a series of bilevel optimizations which **allow the cell to physiologically acclimate to its environment** by altering its macromolecular composition, its pigment composition, and the abundance and types of transporters on the cell surface. Using the acclimated GSMM and the associated constraints, flux balance analysis is then run to predict growth rates and metabolic fluxes. Finally, we apply a modified Arrhenius function using optimal 
