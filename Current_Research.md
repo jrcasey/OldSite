@@ -19,7 +19,7 @@ growth temperatures derived from a machine learning algorithm. Here is a teaser:
 
 
 > There seems to be either a boundless flow of genes or a jaw-dropping amount of persistent micro-diversity within the  *Prochlorococcus* community. We could never hope to capture all the instances in GSMMs, so instead we are evolving *in silico*
-strains synthesized from the pangenome. In addition to the 48 isolates, the pangenome also includes genes from 97 strains built from MAGs and SAGs, and we plan to include an additional 489 SAGs recently [published](https://www.nature.com/articles/sdata2018154).     
+strains synthesized from the pangenome. In addition to the 48 isolates, the pangenome also includes genes from 97 strains built from MAGs and SAGs, and we plan to include an additional 489 SAGs recently published by [Berube et al., 2018](https://www.nature.com/articles/sdata2018154).     
 
 
 ## Biological thermodynamics
