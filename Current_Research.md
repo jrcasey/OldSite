@@ -3,7 +3,7 @@
 
 > With Mick Follows and collaborators within the [CBIOMES Project](https://cbiomes.org), I am designing detailed models of microbial metabolism and physiology and using these models to simulate microbial community dynamics in the marine environment. 
 
-> Two MATLAB toolboxes are under development for this project: The **M**icrobiome **S**imulation **E**nvironment toolbox ([MSE](https://github.com/jrcasey/mse)) and the **P**an**GE**nome-scale **M**etabolic model toolbox PanGEM (sorry, currently private). Lots more on them in time!    
+> Two MATLAB toolboxes are under development for this project: The **M**icrobiome **S**imulation **E**nvironment toolbox ([MSE](https://github.com/jrcasey/mse)) and the **PanGE**nome-scale **M**etabolic model toolbox PanGEM (sorry, currently private). Lots more on them in time!    
 
 ##### Mesoscale dynamics of *Prochlorococcus*
 
