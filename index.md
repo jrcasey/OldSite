@@ -43,7 +43,7 @@ genetic code.
  
 [Current Research](./Current_Research.md)
 
-[CV](./docs/CV_20190604.pdf)
+[CV](./docs/CV_20200504.pdf)
 
 [Publications](./Publications.md)
 
