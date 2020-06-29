@@ -7,35 +7,7 @@ USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://glob
 
  - - -
 
-> Aloha and thank you for visiting! Here you'll find 
-a few blurbs about me and my research, publications, talks,
-as well as some repo's that you're more than welcome to fork. 
-First, a bit about me and my current interests:
-
-> I am fascinated by the microbial world and its regulation of elemental 
-cycles and energy transduction in the marine 
-ecosystem. To make sense of the coordination of 
-thousands of microbial populations interacting 
-through a web of thousands of chemical conduits, all 
-dynamically adapting to an ever-changing environment
-is quite a challenge. 
-
-> Combining field observations, laboratory 
-experiments, theoretical and computational models, I 
-have the lofty goal of working to build toward a 
-mechanistic model of microbial life in the 
-oceans. New theory is needed to bridge the gap from 
-high-frequency cellular-scale 
-processes to those of the larger marine ecosystem, 
-and a fundamental understanding of the time and space 
-scales over which microbes explore their fitness 
-landscape and process information is 
-lacking. I am motivated to explore the 
-optimization of cellular scale processes, how objectives
-are influenced by the flow of information between 
-tiers of biological organization, and how 
-all this complexity is imprinted in the
-genetic code.  
+> I am interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.
 
  - - -
 
