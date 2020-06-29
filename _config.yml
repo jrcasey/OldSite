@@ -1,5 +1,5 @@
 title: John R. Casey
-description: Welcome to my homepage! (Always Under Construction)
+description: Welcome to my homepage!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
@@ -8,11 +8,10 @@ plugins:
 url: https://jrcasey.github.io
 author: John Casey
 twitter:
-  username: tako_poke
+  username: kanakawicz
   card: summary
 social:
   name: John Casey
   links:
-    - https://twitter.com/tako_poke
-    - https://www.facebook.com/john.casey.140
+    - https://twitter.com/kanakawicz
     - https://github.com/jrcasey
