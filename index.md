@@ -11,9 +11,9 @@ USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://glob
 
  - - -
  
-[+ Current Research](./Current_Research.md) 
-[+ CV](./docs/CV_20200504.pdf) 
-[+ Publications](./Publications.md)
+[+ Current Research](./Current_Research.md)  
+[+ CV](./docs/CV_20200504.pdf)  
+[+ Publications](./Publications.md)  
 
 
 <details><summary>Contact</summary>
@@ -41,7 +41,7 @@ University of Hawai'i at Manoa
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/){:target="_blank"}  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}
 
-[ResearchGate](https://www.researchgate.net/profile/John_Casey)
+[ResearchGate](https://www.researchgate.net/profile/John_Casey)  
 [Mendeley](https://www.mendeley.com/profiles/john-casey4/?viewAsOther=true){:target="_blank"} 
  
 
