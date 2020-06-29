@@ -3,7 +3,7 @@
 ![useful image]({{ jrcasey.github.io }}/images/Healey.jpg)
 USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://globaloceanexploration.com){:target="_blank"}
  - - -
-<a href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tako_poke</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kanakawicz" class="twitter-follow-button" data-show-count="false">Follow @kanakawicz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
  - - -
 
@@ -79,4 +79,4 @@ University of Hawai'i at Manoa
 
  - - -
  
- <a class="twitter-timeline" href="https://twitter.com/tako_poke?ref_src=twsrc%5Etfw">Tweets by tako_poke</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a class="twitter-timeline" href="https://twitter.com/kanakawicz">Tweets by kanakawicz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
