@@ -13,7 +13,7 @@ USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://glob
 
 ### About
  
-[Current Research](./Current_Research.md)
+<span style="color:black">[Current Research](./Current_Research.md)</span>
 
 [CV](./docs/CV_20200504.pdf)
 
