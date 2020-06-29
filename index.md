@@ -10,14 +10,12 @@ USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://glob
 > I am interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.
 
  - - -
-
-### About
  
-<span style="color:black">[Current Research](./Current_Research.md)</span>
+[+ Current Research](./Current_Research.md)
 
-[CV](./docs/CV_20200504.pdf)
+[+ CV](./docs/CV_20200504.pdf)
 
-[Publications](./Publications.md)
+[+ Publications](./Publications.md)
 
 <details><summary>Contact</summary>
 
@@ -46,6 +44,7 @@ University of Hawai'i at Manoa
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/){:target="_blank"}  
 [EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}
 
+[ResearchGate](https://www.researchgate.net/profile/John_Casey)
 [Mendeley](https://www.mendeley.com/profiles/john-casey4/?viewAsOther=true){:target="_blank"} 
  
 
