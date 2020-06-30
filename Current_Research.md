@@ -5,6 +5,11 @@
 
 > Two MATLAB toolboxes are under development for this project: The **M**icrobiome **S**imulation **E**nvironment toolbox ([MSE](https://github.com/jrcasey/mse)) and the **PanGE**nome-scale **M**etabolic model toolbox PanGEM (sorry, currently private). Lots more on them in time!    
 
+> Here's a primer on what's to come...
+
+<video src="/images/Casey_narration.mp4" poster="/images/poster.pdf" width="320" height="200" controls preload></video>
+
+
 ##### Mesoscale dynamics of *Prochlorococcus*
 
 > **Update:** Our first full-scale simulation -- *Prochlorococcus* growth across an eddy dipole transect -- is complete! We are thrilled with the results and are currently sifting through all the data to develop a compelling story. 
