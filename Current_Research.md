@@ -7,7 +7,7 @@
 
 > Here's a primer on what's to come...
 
-<video src="/images/Casey_narration.mp4" poster="/images/poster.pdf" controls preload></video>
+<video src="/images/Casey_narration.mp4" poster="/images/poster.pdf" width="640" height="400" controls preload></video>
 
 
 ##### Mesoscale dynamics of *Prochlorococcus*
