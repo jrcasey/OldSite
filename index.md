@@ -10,7 +10,11 @@ USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://glob
 > I am interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.
 
  - - -
- ![Research]({{https://jrcasey.github.io/Current_Research.html}}./images/Icon_research.png =150x100)
+<p>
+	<a href="https://jrcasey.github.io/Current_Research.html">
+		<img src="./images/Icon_research.png" alt="research" width="150" >
+	</a>
+</p>
 
 <details><summary>Contact</summary>
 
