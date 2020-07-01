@@ -10,52 +10,17 @@ USCGC Healey, Bering Sea (2008) - Photographed by [Gaelin Rosenwaks](http://glob
 > I am interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.
 
  - - -
-<p>
-	<a href="https://jrcasey.github.io/Current_Research.html">
+
+<a href="https://jrcasey.github.io/Current_Research.html">
 		<img src="./images/Icon_research.png" alt="research" width="150" >
-	</a>
-</p>
-
-<p>
-	<a href="https://jrcasey.github.io/Publications.html">
+</a>
+<a href="https://jrcasey.github.io/Publications.html">
 		<img src="./images/Icon_publications.png" alt="publications" width="150" >
-	</a>
-</p>
-
-<p>
-	<a href="https://jrcasey.github.io/docs/CV_20200504.pdf">
+</a>
+<a href="https://jrcasey.github.io/docs/CV_20200504.pdf">
 		<img src="./images/Icon_cv.png" alt="cv" width="150" >
-	</a>
-</p>
+</a>
 
-<div class="row">
-  <div class="column">
- 	<a href="https://jrcasey.github.io/Current_Research.html">
- 		<img src="./images/Icon_research.png" alt="research" width="150" >
- 	</a>
-  </div>
-  <div class="column">
-	<a href="https://jrcasey.github.io/Publications.html">
-		<img src="./images/Icon_publications.png" alt="publications" width="150" >
-	</a>
-  </div>
-  <div class="column">
-	<a href="https://jrcasey.github.io/docs/CV_20200504.pdf">
-	    <img src="./images/Icon_cv.png" alt="cv" width="150" >
-	</a>
-  </div>
-</div>
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 <details><summary>Contact</summary>
 
 jrcasey at mit dot edu  
